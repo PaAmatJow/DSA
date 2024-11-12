@@ -1,1 +1,3 @@
-## Big O Notation fr fr
+## Big O Notation
+
+# Why d we need something like Big O Notation?
